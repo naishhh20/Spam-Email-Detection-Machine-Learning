@@ -45,4 +45,5 @@ This system demonstrates an effective way to detect spam emails using machine le
 ## References:
 - Tusher, E. H., et al. (2024). *Email Spam: A Comprehensive Review of Optimized Detection Methods, Challenges, and Open Research Problems*. IEEE Access.
 - Tian, Y., et al. (2025). *A Stacking Approach: Machine Learning for Spam Email Detection*. Journal of Applied Sciences and Engineering.
+- Sizhe Teng al.(2025). *Exploring the Current State of Machine Learning in Spam Filters * Department of Mathematics, University of California, Santa Barbara, Santa Barbara, U.S.A.
 
